@@ -1,3 +1,4 @@
+```
 USER
   │
   ▼
@@ -23,7 +24,7 @@ BROWSER EXTENSION
           ├── Translation
           ├── Voice
           └── Task guidance
-
+```
 
 | Component       | Responsibility                        |
 | --------------- | ------------------------------------- |
